@@ -19,7 +19,7 @@ export default {
     name: 'HelloWorld',
     data() {
         return {
-            backend: 'hhttp://demo-api-backend:8081',
+            backend: 'http://demo-api-backend:8081',
             random: '',
             secret: '',
             hostname: '',
